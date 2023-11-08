@@ -2,7 +2,7 @@
 title: 'Donate'
 ---
 
-{{<alert "success">}}
+{{<alert "tip">}}
 Hi! On this page you can support me with money.
 {{</alert>}}
 
