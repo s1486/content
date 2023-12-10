@@ -1,5 +1,6 @@
 ---
 title: 'Работа в AO ESP'
+weight: 1
 info:
   portfolio:
     date: '2009-05-01'
@@ -22,7 +23,7 @@ info:
 **Используемые технологии:**
 
 - Apache HTTPD / Nginx / MySQL.
-- HTML /CSS / PHP.
+- HTML / CSS / PHP.
 - CMS Drupal.
 - CMS WordPress.
 {{< / accordion-item >}}
@@ -33,7 +34,7 @@ info:
 **Используемые технологии:**
 
 - Apache HTTPD / Nginx
-- HTML /CSS / PHP.
+- HTML / CSS / PHP.
 - Bash-скрипты.
 - Cron.
 {{< / accordion-item >}}
@@ -46,7 +47,7 @@ info:
 **Используемые технологии:**
 
 - Apache HTTPD / Nginx / MySQL.
-- HTML /CSS / PHP.
+- HTML / CSS / PHP.
 - CMS Drupal.
 {{< / accordion-item >}}
 
@@ -56,7 +57,7 @@ info:
 **Используемые технологии:**
 
 - Apache HTTPD / Nginx / MySQL.
-- HTML /CSS / PHP.
+- HTML / CSS / PHP.
 - CMS MediaWiki.
 {{< / accordion-item >}}
 
@@ -66,6 +67,6 @@ info:
 **Используемые технологии:**
 
 - Apache HTTPD / Nginx / MySQL.
-- HTML /CSS / PHP.
+- HTML / CSS / PHP.
 {{< / accordion-item >}}
 {{< / accordion >}}
