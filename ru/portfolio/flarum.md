@@ -1,9 +1,8 @@
 ---
 title: 'Flarum Russian Community'
-info:
-  portfolio:
-    date: '2015-12-01'
-    url: 'https://discuss.flarum.org/d/1545'
+portfolio:
+  date: '2015-12-01'
+  url: 'https://discuss.flarum.org/d/1545'
 ---
 
 Отличный движок для контентных проектов, таких как блог или форум. Взялся за его перевод в 2015 году. В итоге, разработчики объявили мой перевод официальным и включили в свой дистрибутив.
