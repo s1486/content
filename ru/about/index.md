@@ -10,19 +10,19 @@ title: 'Обо мне'
 
 *Эта страничка время от времени будет обновляться, когда у меня будет желание что-либо добавить.*
 
-## Аниме
-
+{{< accordion >}}
+{{< accordion-item "Любимое аниме" >}}
 - Death Note
 - Howl's Moving Castle
+- Kaiba
 - Majo no Takkyuubin
 - Mob Psycho 100
 - My Neighbor Totoro
 - One Punch Man
 - Princess Mononoke
 - Spirited Away
-
-## Фильмы
-
+{{< / accordion-item >}}
+{{< accordion-item "Любимые фильмы" >}}
 - Alien
 - Back to the Future
 - Batman: Begins
@@ -39,16 +39,16 @@ title: 'Обо мне'
 - Oblivion
 - Terminator
 - The Equalizer
-
-## Музыка
-
+{{< / accordion-item >}}
+{{< accordion-item "Любимая музыка" >}}
 - Ambient
 - Chill Out
 - Epic
 - Retro Wave
-
-## Книги
-
+{{< / accordion-item >}}
+{{< accordion-item "Любимые книги" >}}
 - Маленький принц // Антуана де Сент-Экзюпери
 - Токийские легенды // Харуки Мураками
 - Хроники Заводной птицы // Харуки Мураками
+{{< / accordion-item >}}
+{{< / accordion >}}
