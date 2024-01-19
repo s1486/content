@@ -3,4 +3,4 @@ title: 'Contacts'
 weight: '99'
 ---
 
-- [Email](mailto:mail@z17.cx)
+- [Email](mailto:mail@kai.kim)
